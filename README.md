@@ -53,7 +53,7 @@ pip install streamlit pandas matplotlib seaborn
 Then run the app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 Make sure the `world_cup_data.csv` file is inside the project folder.
